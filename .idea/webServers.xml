@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f0b5fd2-efc8-402a-a176-c0f676b0a336" name="master" url="https://github.com/orest95">
+        <fileTransfer host="https://github.com/orest95" port="21" rootFolder="/Java_Pattern" password="dfe3dfe7dffadff8dfefdff0dfebdfdddfd8dfd2df9b" username="orest95">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

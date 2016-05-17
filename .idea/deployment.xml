@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="master" uploadOnCheckin="8f0b5fd2-efc8-402a-a176-c0f676b0a336">
+    <serverData>
+      <paths name="master">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="master" />
+  </component>
+</project>
